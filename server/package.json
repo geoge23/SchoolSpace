@@ -13,7 +13,7 @@
     "express": "^4.17.1",
     "firebase-admin": "^8.13.0",
     "mongoose": "^5.9.23",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "uuid": "^8.2.0",
     "webm-byte-stream": "^0.1.4"
   }
